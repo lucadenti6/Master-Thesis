@@ -1,6 +1,6 @@
 # Master-Thesis
 
-# Master's Thesis: Parametrix Method for SPDEs and Applications in Quantitative Finance
+# The stochastic parametrix method for the Backward diffusion SPDE
 
 Welcome to the repository dedicated to my Master's thesis in Mathematics. This project bridges advanced stochastic analysis, partial differential equations (PDEs), and practical quantitative financial engineering.
 
@@ -21,8 +21,6 @@ Key mathematical methods and tools developed in this project include:
 
 ## Repository Structure
 
-* `/notebooks`: Jupyter Notebooks containing the numerical simulations, volatility smile plotting, and calibration scripts.
-* `/src`: Core Python scripts implementing the financial models, Black-Scholes baselines, and pricing functions.
 * `/docs`: Additional LaTeX summaries, notes, or presentation slides related to the thesis defense.
 
 ---
